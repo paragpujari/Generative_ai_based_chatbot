@@ -67,5 +67,15 @@ Generative AI is integrated into the chat bots.
 Large Language Models (LLM) is integrated into the chatbots.
 It can solve complex queries and can understand the natural language based processing text.
 
+
+# Objective:
+
+The main motto of this project is to build an AI based Chat Bot that can take the input message and give the response with respect to the message given.
+
+# Problem Statement:
+
+Chat Bot is a powerful-based AI tool that takes the input from the user, understand the input text, process it and give the response back to the user.  So Chat bot is used to felicitate the seamless communication between the humans and digital systems. Thus, we can save the time, improve user experiences and optimize the processes.
+
+
 It can be integrated into platforms like WhatsApp, Microsoft Teams etc.
 It is widely used in health care, education etc.
