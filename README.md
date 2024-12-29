@@ -153,3 +153,9 @@ j.	Append user input and AI response to the chat history
   1.	Name -> chat name
   2.	Id      ->  chat id
   3.	Messages -> chat message
+
+# OUTPUT:
+
+The above website is of the chat bot made by myself. I have asked the chat bot to answer, (‘what is AI?’).
+ The chat bot has given the entire answer about AI.
+
