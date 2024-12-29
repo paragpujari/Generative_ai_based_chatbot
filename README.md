@@ -13,3 +13,59 @@ Chat Bot is a powerful-based AI tool that is used to take the input from the use
 9.	It consistently replies to all the queries send by the users.
 10.	It makes the digital services more accessible to the users to deal with the persons with disabilities.
 
+## Evolution of Chat Bot:
+
+###  EARLY CHAT BOTS (1960 – 1980): Rule Based Systems
+These chat bots are based on certain predefined rules.
+These chat bots lack conversational ability
+These chat bots lack real time understanding.
+They can solve only simple queries.
+
+### 1.	ELIZA:
+a.	It was the first chat bot established in the year 1966.
+b.	It was used for pattern matching
+c.	It is used to mimic a psychotherapist.
+d.	It cannot understand the text or solve any of the complex queries.
+
+### 2.	PARRY:
+a.	It was the second chat bot established in the year 1972.
+b.	It enables the user to communicate with paranoid schizophrenia.
+c.	It is much advanced than Eliza incorporating human emotion.
+
+### EXPERT SYSTEMS (1980 – 1990): Task Oriented Chatbots
+These chat bots are integrated into expert systems.
+It focused on industries.
+It is heavily dependent on predefined rules and decision trees.
+Challenges:
+It is unable to handle complex queries.
+It requires constant updates into the rule base.
+
+
+
+### The Rise of Machine Learning (2000s): Smarter Chatbots
+These chat bots are integrated with machine learning to improve its functionalities.
+Here NLP is also added into the chat bots to improve its performance.
+It can solve complex problems.
+Challenges:
+It lacked deep understanding.
+It requires significant data for training.
+
+### The AI Revolution (2010s): Intelligent Virtual Assistants
+These AI powered chat bots are integrated with deep learning and advance NLP.
+It requires integration with cloud computing, large datasets and image processing.
+
+It can solve complex queries.
+Ex = Siri, Amazon Alexa 
+
+Challenges:
+Privacy concerns with the data usage.
+
+
+### Current Era (2020s): Conversational AI and Multimodal Chatbots
+
+Generative AI is integrated into the chat bots.
+Large Language Models (LLM) is integrated into the chatbots.
+It can solve complex queries and can understand the natural language based processing text.
+
+It can be integrated into platforms like WhatsApp, Microsoft Teams etc.
+It is widely used in health care, education etc.
