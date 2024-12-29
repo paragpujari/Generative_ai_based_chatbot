@@ -81,10 +81,12 @@ It can be integrated into platforms like WhatsApp, Microsoft Teams etc.
 It is widely used in health care, education etc.
 
 # Algorithm:
+
 1.	First, the generative API key is configured.
+   
 2.	Then all the models have been listed for the Generative AI.
 3.	Gemini-pro model is preferred, as it is used for scaling across a wide range of tasks.
-4.	A particular text is considered and content is generated from the text provided using generative ai.
+4. A particular text is considered and content is generated from the text provided using generative ai.
    (i)	We have taken the text and applied the generative ai algorithm in it.
 
    (ii)	Then generate_content function is applied on the text. This function generates the answer message from the text.
