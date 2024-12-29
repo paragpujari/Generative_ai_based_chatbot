@@ -135,10 +135,15 @@ It is widely used in health care, education etc.
           d.	 Find the relevant chat and get the chat history
 
 e.	# generate the AI response
+
 f.	use AIResponse function to generate the AI response
+
 g.	If there is any chat history, append it to the current prompt and  it generates the previous message of the input text
+
 h.	def AIResponse -> Generate the AI response that contains the current response and the previous response of the input message.
+
 i.	Return only the new AI response in text format
+
 j.	Append user input and AI response to the chat history
 
 # Algorithms Used:
